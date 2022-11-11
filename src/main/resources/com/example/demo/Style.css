@@ -1,0 +1,39 @@
+@font-face{
+    font-family: Bahnschrift;
+    src: url(Bahnschrift.ttf);
+}
+.root{
+    -fx-background-color: #222;
+    -fx-background-radius: 28
+}
+.mainPane{
+    -fx-background-color: Linear-gradient(to bottom right, #AFEEEE, #4169E1);
+    -fx-background-radius: 28;
+}
+
+.textField{
+    -fx-background-radius: 28;
+    -fx-background-color: #222;
+    -fx-border-color: white;
+    -fx-border-radius: 28;
+    -fx-border-width: 2.5;
+    -fx-text-fill: white;
+    -fx-min-width: 2;
+}
+.btn{
+    -fx-background-color: Linear-gradient(to bottom right, #00FFFF, #FFFAFA);
+    -fx-border-color: white;
+    -fx-border-radius: 28;
+    -fx-border-width: 2.5;
+    -fx-font-family: Bahnschrift;
+    -fx-font-size: 18;
+}
+.ltext{
+    -fx-font-family: Bahnschrift;
+    -fx-font-size: 18;
+}
+
+.DP{
+    -fx-background-color: #00000025;
+    -fx-background-radius: 15;
+}
