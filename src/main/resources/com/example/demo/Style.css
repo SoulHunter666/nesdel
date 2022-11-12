@@ -33,6 +33,16 @@
     -fx-font-size: 18;
 }
 
+.ltext2{
+    -fx-font-family: Bahnschrift;
+    -fx-font-size: 14;
+}
+
+.ttext{
+    -fx-font-family: Bahnschrift;
+    -fx-font-size: 45;
+}
+
 .DP{
     -fx-background-color: #00000025;
     -fx-background-radius: 15;
